@@ -180,5 +180,5 @@ def main(output_dir):
     print(f"The image has been saved here: {output_path}")
 
 # Specify the output directory path
-output_dir = r"C:\ESAD\Autonomie\tout_faire_avec_rien_rien_faire_avec_tout\Dossier_couleur\procedural_textures"  # Replace with the actual path
+output_dir = r"C:\User_name\textures_folder"  # Replace with the actual path
 main(output_dir)
