@@ -6,9 +6,9 @@ Created as part of a prep school project at ESAD Orléans. The subject was: “D
 
 This project contains a Python script designed to generate textures using Perlin noise and Voronoi noise. The script creates smooth and varied textures with random colors and dynamic Gaussian blur.
 
-## Licence
+## License
 
-his project is licensed under the Apache License 2.0. See the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Installation
 
